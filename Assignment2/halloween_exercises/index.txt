@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Halloween Store</title>
+	<link rel="stylesheet" href="styles/normalize.css">
+	<link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body background="images/bats.gif">
+
+  <header>
+<div class="flex">
+  	<img src="images/pumpkin.gif" alt="Pumpkin">
+<div>
+    <h2>The Halloween Store</h2>
+	<h3>For the little Goblin in all of us!</h3>
+</div>
+</div>	
+
+  </header>
+
+  <main>
+  <div class="flex2">
+  <div id="listwidth">
+      <ul>
+    	<li><a href="products/props.html">Props</a></li>
+    	<li><a href="products/costumes.html">Costumes</a></li>
+    	<li><a href="products/special.html">Special FX</a></li>
+    	<li><a href="products/masks.html">Masks</a></li>
+    </ul>
+	</div>
+	<div id="leftpadding">
+    <h1 id="firstline">Welcome to my site.</h1>
+    <h1>Please come in and stay awhile.</h1>
+    <p>I started this web site because Halloween has always been my favorite holiday. 
+    	But during the last year, I started selling some of my favorite Halloween products, 
+    	and they've become quite a hit.</p>
+    <p>If you click on the Personal link, you can browse my favorite Halloween pictures, 
+    	stories, and films. And if you join my email list, I will keep you up-to-date on 
+    	all things Halloween.</p>
+    <h2>Product of the week</h2>
+		<img src="images/cat1.jpg" alt="Deranged Cat">
+		<div>
+	<a href="products/cat.html"> 20" Deranged cat</a>
+			</div>
+
+    <h3>My guarantee</h3>
+    <p>If you aren't completely satisfied with everything you buy from my site, you can return it 
+    	for a full refund. <strong>No questions asked!</strong></p>	
+	</div>
+  </div>		
+  </main>
+
+  <footer>
+	<p>&copy; 2018 Ben Murach</p>
+  </footer>
+
+</body>
+</html>
